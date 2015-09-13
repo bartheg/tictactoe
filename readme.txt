@@ -13,11 +13,9 @@ r - od nowa
 1-9 (na klawiaturze numerycznej) - postawienie na polu O lub X
 
 EN
-Requirnments Python2, Pygame.
+Requirements Python2, Pygame.
 Click to put O or X on the field. "Od nowa" restarts the game.
 Escape - quit game
 r - restart the game
 0 (numeric keyboard) - restart the game
 1-9 (numeric keyboard) - put O or X on the field
-
-
